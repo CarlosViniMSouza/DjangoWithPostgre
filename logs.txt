@@ -1,0 +1,3 @@
+user=carlosvinimsouza
+email=vinicius.souza1234@hotmail.com
+pwd=admin123
